@@ -1,0 +1,5 @@
+﻿ResellerID,Contact,EmailAddress,Address,City,StateProvince,Country,PostalCode,PhoneNumber,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy,ResellerName
+d56ef891-cbfa-4659-a44a-169aafb00587,Charles Kim,charles.kim@email.com,10437 Retailer Avenue,Jackson,Mississippi,United States,39203,601-425-0639,2013-01-01 20:43:18,company\SQLServerSalesAccount,,,Mississipi Distributors
+5be7aa4a-70b8-4515-88ba-b78395ff9710,Ralph Smith,rsmith@email.com,1733 2nd St S,Meridian,Mississippi,United States,39301,601-485-2250,2013-01-01 20:43:18,company\SQLServerSalesAccount,,,Walmart Supercenter
+10418299-2934-4ca3-b368-d0dfcde58a51,Chelsea Douglas,chelsea.douglas@email.com,100 Big Retailer Court,Indianapolis,Indiana,United States,46204,317-969-8119,2013-01-01 20:43:18,company\SQLServerSalesAccount,,,Indiana Department Store
+9c9706cb-9102-43c4-9e5a-dd38502a1284,Joel Shelton,jshelton@email.com,3450 Wrightsboro Rd,Augusta,Georgia,United States,30909,706-731-8850,2013-01-01 20:43:18,company\SQLServerSalesAccount,,,Georgia Mega Store

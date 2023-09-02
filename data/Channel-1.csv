@@ -1,0 +1,6 @@
+﻿ChannelID,ChannelCategoryID,Channel,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+1,1,Boutiques,2013-01-01 20:54:57,company\SQLServerSalesAccount,,
+2,1,On-line,2013-01-01 20:54:57,company\SQLServerSalesAccount,,
+3,1,Outlet,2013-01-01 20:54:57,company\SQLServerSalesAccount,,
+4,2,Branded Franchise,2013-01-01 20:54:57,company\SQLServerSalesAccount,,
+5,2,Department Stores,2013-01-01 20:54:57,company\SQLServerSalesAccount,,

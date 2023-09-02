@@ -1,0 +1,5 @@
+﻿ProductCategoryID,ProductCategory,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+1,Accessories,2013-01-01 20:55:20,company\SQLServerSalesAccount,,
+2,Children's Apparel,2013-01-01 20:55:20,company\SQLServerSalesAccount,,
+3,Women's Apparel,2013-01-01 20:55:20,company\SQLServerSalesAccount,,
+4,Men's Apparel,2013-01-01 20:55:20,company\SQLServerSalesAccount,,

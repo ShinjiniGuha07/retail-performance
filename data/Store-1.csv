@@ -1,0 +1,7 @@
+﻿StoreID,SubSegmentID,StoreNumber,StoreManager,Address,City,StateProvince,Country,PostalCode,PhoneNumber,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+1,1,5,Freida Williams,90021 State Street,Atlanta,Georgia,United States,30301,404-902-1067,2013-01-01 21:23:03,company\SQLServerSalesAccount,,
+2,2,34,Michelle Miller,16371 14th Street,St Louis,Missouri,United States,63103,557-704-9940,2013-01-01 21:23:03,company\SQLServerSalesAccount,,
+3,2,39,Keith Chum,16205 138th Street,Jackson,Mississippi,United States,39201,601-250-4658,2013-01-01 21:23:03,company\SQLServerSalesAccount,,
+4,3,21,Mark Weber,8365 10th Avenue,Bentonville,Arkansas,United States,72716,479-950-6646,2013-01-01 21:23:03,company\SQLServerSalesAccount,,
+5,4,8,James Trunk,437 Main Avenue,Little Rock,Arkansas,United States,72202,501-168-3940,2013-01-01 21:23:03,company\SQLServerSalesAccount,,
+6,6,10,Joann Chan,1037 2nd Street,Jefferson City,Missouri,United States,65103,573-398-3046,2013-01-01 21:23:03,company\SQLServerSalesAccount,,

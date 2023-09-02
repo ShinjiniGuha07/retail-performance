@@ -1,0 +1,25 @@
+﻿ProductID,ProductTypeID,Product,Color,Style,UnitofMeasureID,Weight,Price,Cost,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy,WholesalePrice
+1,1,Blush,Red,,3,8,13.95,5,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,7
+2,1,Lipstick,Red,,3,3.4,6.99,2.5,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,3.5
+3,2,Amytheyst Necklace,purple,,3,12,24.95,5,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,12.5
+4,2,Silver Ring - Gallic pattern,,gallic,3,2,43.95,13.75,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,22
+5,2,Silver Ring - plain,,plain,3,2,35.5,10,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,17.75
+6,3,Blue Onesie Pajamas,Blue,Onesie,1,0.43,5.99,2,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,3
+7,3,Thomas the Train Pajamas,Blue,Onesie,1,0.53,6.99,2.5,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,3.5
+8,3,White Socks - 6 pack,White,Socks,1,0.25,4.99,1,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,2.5
+9,4,Girl's Dress,Red,Dress,1,0.5,7.99,3,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,4
+10,4,Thomas the Train Pajamas,Blue,Two Piece,1,0.6,7.99,3.5,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,4.5
+11,5,Girl's Dress,Pink,Dress,1,0.7,13.95,4,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,7
+12,5,Spider-man T-shirt,Red,T-Shirt,1,0.4,6.99,3.5,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,4.5
+13,6,Blouse,White,Blouse,1,0.53,69.99,25.75,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,35
+14,6,Skirt,Red,Skirt,1,0.6,58.99,21.25,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,29.5
+15,7,Dressing Gown,White,Gown,1,0.9,59.99,20,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,30
+16,7,Pajamas,Black,Pajamas,1,1,47.99,10,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,24
+17,8,Dress,Black,Dress,1,1,109.99,35.5,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,55
+18,8,Shoes - High-heel,Black,Shoes,1,0.5,57.99,20,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,29
+19,8,Strapless Dress,Blue,Dress,1,0.9,117.99,39,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,60
+20,9,Captain America T-Shirt,White,T-Shirt,2,1,19.95,6.75,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,10
+21,9,Denim Jeans,Blue,Pants,2,2,47.5,25,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,32.5
+22,9,T-Shirt,White,T-Shirt,2,0.75,6.99,2,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,3.5
+23,10,Buttondown Shirt,White,Shirt,1,0.7,39.95,15,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,20
+24,10,Formal Pants,Khaki,Pants,1,0.8,49.99,20,2013-01-01 20:56:10,company\SQLServerSalesAccount,,,25

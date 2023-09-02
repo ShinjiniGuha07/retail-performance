@@ -1,0 +1,11 @@
+﻿ProductTypeID,ProductCategoryID,ProductType,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+1,1,Cosmetics,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+2,1,Jewelry,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+3,2,Baby 0-2,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+4,2,Kids 2-6,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+5,2,Kids 7-14,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+6,3,Women's Casual,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+7,3,Women's Eveningwear,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+8,3,Women's Formal,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+9,4,Men's Casual,2013-01-01 20:55:47,company\SQLServerSalesAccount,,
+10,4,Men's Formal,2013-01-01 20:55:47,company\SQLServerSalesAccount,,

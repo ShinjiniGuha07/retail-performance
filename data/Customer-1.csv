@@ -1,0 +1,4 @@
+﻿CustomerID,SubSegmentID,FirstName,LastName,Gender,EmailAddress,Address,City,StateProvince,Country,PostalCode,PhoneNumber,CreatedDate,CreatedBy,ModifiedDate,ModifiedBy
+9cfbece1-de7a-4ef5-a766-43f28e7edfa2,5,Kim,Wanda,F,wanda.kim@email.com,886 East Way,Birmingham,Alabama,United States,35203,205-742-4100,2013-01-01 21:20:22,company\SQLServerSalesAccount,,
+5bd2fd76-c656-4a12-80b1-7a423e380fca,5,Leonard,Alvarado,M,leonard.alvardo@email.com,201 South Street,Atlanta,Georgia,United States,30304,404-215-3949,2013-01-01 21:20:22,company\SQLServerSalesAccount,,
+7ab04e33-c078-462b-a40d-b93e2bc0466b,5,Young,Roger,M,roger.young@email.com,102 North Court,Tiffin,Ohio,United States,44883,419-695-5262,2013-01-01 21:20:22,company\SQLServerSalesAccount,,
